@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "map": "Map", "report": "Report Issue", "track": "Track", "admin": "Admin"
+  },
+  "status": {
+    "submitted": "Submitted", "verified": "Verified",
+    "in_progress": "In Progress", "resolved": "Resolved"
+  },
+  "complaint": {
+    "submit": "Submit Report", "category": "Category",
+    "severity": "Severity", "description": "Description"
+  }
+}
